@@ -1,0 +1,16 @@
+C:\progr\fundamentalмай\3. Arrays - Exercise\2.Common Elements\bin\Debug\net5.0\2.Common Elements.exe
+C:\progr\fundamentalмай\3. Arrays - Exercise\2.Common Elements\bin\Debug\net5.0\2.Common Elements.deps.json
+C:\progr\fundamentalмай\3. Arrays - Exercise\2.Common Elements\bin\Debug\net5.0\2.Common Elements.runtimeconfig.json
+C:\progr\fundamentalмай\3. Arrays - Exercise\2.Common Elements\bin\Debug\net5.0\2.Common Elements.runtimeconfig.dev.json
+C:\progr\fundamentalмай\3. Arrays - Exercise\2.Common Elements\bin\Debug\net5.0\2.Common Elements.dll
+C:\progr\fundamentalмай\3. Arrays - Exercise\2.Common Elements\bin\Debug\net5.0\2.Common Elements.pdb
+C:\progr\fundamentalмай\3. Arrays - Exercise\2.Common Elements\obj\Debug\net5.0\2.Common Elements.csproj.AssemblyReference.cache
+C:\progr\fundamentalмай\3. Arrays - Exercise\2.Common Elements\obj\Debug\net5.0\2.Common Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\progr\fundamentalмай\3. Arrays - Exercise\2.Common Elements\obj\Debug\net5.0\2.Common Elements.AssemblyInfoInputs.cache
+C:\progr\fundamentalмай\3. Arrays - Exercise\2.Common Elements\obj\Debug\net5.0\2.Common Elements.AssemblyInfo.cs
+C:\progr\fundamentalмай\3. Arrays - Exercise\2.Common Elements\obj\Debug\net5.0\2.Common Elements.csproj.CoreCompileInputs.cache
+C:\progr\fundamentalмай\3. Arrays - Exercise\2.Common Elements\obj\Debug\net5.0\2.Common Elements.dll
+C:\progr\fundamentalмай\3. Arrays - Exercise\2.Common Elements\obj\Debug\net5.0\refint\2.Common Elements.dll
+C:\progr\fundamentalмай\3. Arrays - Exercise\2.Common Elements\obj\Debug\net5.0\2.Common Elements.pdb
+C:\progr\fundamentalмай\3. Arrays - Exercise\2.Common Elements\obj\Debug\net5.0\2.Common Elements.genruntimeconfig.cache
+C:\progr\fundamentalмай\3. Arrays - Exercise\2.Common Elements\obj\Debug\net5.0\ref\2.Common Elements.dll
